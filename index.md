@@ -3,7 +3,7 @@ layout: home
 ---
 
 ---
-Hello, I'm Siddharth Sharma (svs). I'm a technologist who specialises in building organisations that slap!
+Hello, I'm Siddharth Sharma (svs). I'm a technologist who specialises in organisational design and psychology.
 
 You can find me on [Twitter](https://twitter.com/_svs_) and [LinkedIn](https://www.linkedin.com/in/siddharth-sharma-7941a611/)
 
