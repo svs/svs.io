@@ -5,6 +5,8 @@ layout: home
 ---
 Hello, I'm Siddharth Sharma (svs). I'm a technologist who specialises in building organisations that slap!
 
+You can find me on [Twitter](https://twitter.com/_svs_) and [LinkedIn](https://www.linkedin.com/in/siddharth-sharma-7941a611/)
+
 ### writing
 
 I write a newsletter on engineering management at
@@ -23,3 +25,7 @@ I talk. A lot. You can see some of my talks on the [talks](/talks.html) page. He
 I'm on sabbatical!
 
 Sabbaticals are a powerful ~~career~~ life management hack. I'm on my third sabbatical and [am writing a book on it](https://sabbaticalhandbook.com).
+
+### My sankalpa?
+
+I want to move people with words. The elegance of type against paper, the sheer minimalism of it, the leverage it gets from the imagination, the power to mix emotions in the reader, like cooking! I want my words to do this, to change lives.
