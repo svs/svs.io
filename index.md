@@ -29,3 +29,5 @@ Sabbaticals are a powerful ~~career~~ life management hack. I'm on my third sabb
 ### My sankalpa?
 
 I want to move people with words. The elegance of type against paper, the sheer minimalism of it, the leverage it gets from the imagination, the power to mix emotions in the reader, like cooking! I want my words to do this, to change lives.
+
+
