@@ -41,12 +41,13 @@
 
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
-  filter: invert(1);
-  img {
-    filter: invert(1);
+    background: black;
+    color: white;
 
-    &.ioda { filter: invert(0); }
-  }
+    a:visited {
+        color: lightblue;
+
+    }
 }
 
 body[a="dark"] { @include dark-appearance; }
