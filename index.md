@@ -21,7 +21,9 @@ And if you must know about my formative years then there's an oooold blog [here]
 
 ### talks   
 I talk. A lot. You can see some of my talks on the [talks](/talks.html) page. Here's the latest
-<iframe width="100%" src="https://www.youtube.com/embed/M_vHUl3riKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center>
+<iframe src="https://www.youtube.com/embed/M_vHUl3riKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
 
 ### what am I doing now?
 
@@ -34,6 +36,6 @@ Sabbaticals are a powerful ~~career~~ life management hack. I'm on my third sabb
 
 ### My sankalpa?
 
-I want to move people with words. The elegance of type against paper, the sheer minimalism of it, the leverage it gets from the imagination, the power to mix emotions in the reader, like cooking! I want my words to do this, to change lives.
+I want to build healthy, nourished, well-adjusted organisations for the benefit of all sentient beings.
 
 
