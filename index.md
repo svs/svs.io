@@ -18,7 +18,7 @@ And if you must know about my formative years then there's an oooold blog [here]
 
 ### talks   
 I talk. A lot. You can see some of my talks on the [talks](/talks.html) page. Here's the latest
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M_vHUl3riKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/M_vHUl3riKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### what am I doing now?
 
