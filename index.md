@@ -3,7 +3,7 @@ layout: home
 ---
 
 ---
-Hello, I'm Siddharth Sharma (svs). I'm a technologist who specialises in organisational design and psychology. Currently I express this through my recruiting company [recruit.svs.io](https://recruit.svs.io) and my engineering management consultancy newsletter [engineeringorg.com](https://engineeringorg.com)
+Hello, I'm Siddharth Sharma (svs). I'm a technologist who specialises in organisational design and psychology. Currently I express this through my recruiting company [recruit.svs.io](https://recruit.svs.io) and my engineering management newsletter [engineeringorg.com](https://engineeringorg.com)
 
 
 You can find me on [Twitter](https://twitter.com/_svs_) and [LinkedIn](https://www.linkedin.com/in/siddharth-sharma-7941a611/). And I run a nerd-focussed Discord Community. Ping me for an invite.
