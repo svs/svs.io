@@ -8,6 +8,12 @@ Hello, I'm Siddharth Sharma (svs). I'm a technologist who specialises in organis
 
 You can find me on [Twitter](https://twitter.com/_svs_) and [LinkedIn](https://www.linkedin.com/in/siddharth-sharma-7941a611/). And I run a nerd-focussed Discord Community. Ping me for an invite.
 
+### career
+
+While I'm an engineering manager now I haven't always been. I have an MBA from IIM Bangalore and started my career as an investment banker. It was a little later that I found my way back to my first love - programming and startups. I'm a 2x founder with 0x exits and my claim to fame is that I used to be CTO of shaadi.com. You can get more details at my [LinkedIn](https://www.linkedin.com/in/siddharth-sharma-7941a611/)
+
+Now I am doubling down on my unique skill of being one of the few nerds who absolutely loves the people side of the business.
+
 ### writing
 
 I write a newsletter on engineering management at
