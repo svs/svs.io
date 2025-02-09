@@ -1,0 +1,8 @@
+---
+layout: post
+title: Rova Saxophone Quartet live at the Stone - Review
+date: '2006-03-23 13:35:00'
+---
+
+<p>Full-power avant garde jazz. We got there late and the show finished early, so all we got to catch was a forty minute set and I say - thank God for small mercies. It&rsquo;s not that the music was bad, it&rsquo;s just that avant-garde music with it&rsquo;s bizarre tonalities and disdain for resolution can make one feel very uneasy indeed. The band was superb - two horn guys, a bassist, a cellist and a percussionist, playing floor drums and providing sparingly used samples and street sounds from his laptop. The bass player was playing this huge acoustic bass, an old battered and much loved instrument and he was thumping along and singing and smiling this huge smile. The cellist, a mad Eastern European looking man who slouched in his chair and made faces while playing, bounced these mad lines off of the bass line and the two of them seemed to be having the best time ever. The two saxophonists played some lovely atmospheric passages and some blistering solos which made no sense to me but which were, I suppose, avant garde gold. <br/>
+ So the Rova saxophone quartet has four albums to its credit, each of the musicians is early middle-aged at the very least and there is no doubt that they have enough chops to send anyone packing, yet they played this tiny venue to twelve people and thanked everyone for coming and sharing the evening with them. This is what I loved most about the show.</p>

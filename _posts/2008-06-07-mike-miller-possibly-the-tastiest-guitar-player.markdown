@@ -1,0 +1,16 @@
+---
+layout: post
+title: Mike Miller - possibly the tastiest guitar player ever!!
+date: '2008-06-07 20:31:00'
+---
+
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://ecx.images-amazon.com/images/I/51FC7GDD6FL._SL500_AA240_.jpg" target="_blank"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 160px;" src="http://ecx.images-amazon.com/images/I/51FC7GDD6FL._SL500_AA240_.jpg" alt="" border="0"/></a>
+In 1993, Chick Corea put together the second version of his Elektric Band and recorded what has turned out to be one of my favourite jazz-fusion discs of all time - the seminal Paint The World (those who have been following this blog might remember <a href="http://www.patang.org/blog/2006/11/dream-come-true.html" target="_blank">this post</a>).  The lineup replaced uber-shredmeister Frank Gambale with the little known Mike Miller, a studio musician from the Los Angeles scene. I can still remember my jaw hitting the floor when Mike&rsquo;s music came pouring out of my speakers for the first time.</p>
+
+<p>The first thing that strikes you about Mike is his tone - it is sharp and biting, and Mike really digs into your ears with his bluesy, ballsy playing throughout the album. The second thing you notice about him is his total control and very strong melodic sense. Of all the solos on the album, his are the most singable. Mike is the polar opposite of his predecessor in the band - he doesn&rsquo;t go in for very fast playing, choosing instead to let his phenomenal phrasing and evolved musical sense create their own mood.</p>
+
+<p>Mike&rsquo;s gutsy playing can be heard throughout the album as he solos or comps with some bizarre chords in that crunchy tone of his. In Tone Poem, he rips an absolutely phenomenal nylon-string solo, just for fun I guess. Some of his other standout solos are on CTA and The Ritual, while the sparring with Chick on the initial bars of Ished leave you in no doubt that this is a guitar player who has learnt the theory, mastered it and then chucked it out the window as he goes with his highly evolved musical gut. I won&rsquo;t waste any more time here, but what I will do instead is to leave you with a few samples of the masterful artist doing his thing.</p>
+
+<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.emusic.com/img/album/109/157/10915758_155_155.jpeg" target="_blank"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;width: 160px;" src="http://www.emusic.com/img/album/109/157/10915758_155_155.jpeg" border="0" alt=""/></a></p>
+
+<p>Mike has a solo album out called Save The Moon. While the music on this album is a lot more laid back than Paint the World (Chick can get very complicated at times), it is still a whole album&rsquo;s worth of immersion in some wonderful guitar playing and you should totally buy it off <a href="http://www.emusic.com/album/Mike-Miller-Save-The-Moon-MP3-Download/10915758.html" target="_blank">emusic</a> (or wherever) if you can.</p>

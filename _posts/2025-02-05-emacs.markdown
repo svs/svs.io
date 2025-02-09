@@ -1,0 +1,20 @@
+---
+title: "Falling completely in love with emacs again!"
+date: 2025-02-09
+categories: [programming]
+layout: post
+---
+
+Some weeks ago, I reluctantly bought a Cursor subscription. Reluctantly because it was quite obvious that emacs was dead and was nowhere in the AI coding game. So Cursor it was and what an apt name it has - each time I used it, I cursed. It came preloaded with all kinds of linters that would make absurd changes to my files. Removing these involved hours of frutstration and I had to call a friend to show me how to turn them off. And that wasn't the end of it. Cursor kept changing files behind my back and I ended up spending more time debugging than I saved coding. It was awful also because I don't *get* VS Code. It's code transformation tooling is very weak. It sees code as text to be entered in a buffer, while emacs sees code as a tree to be manipulated. Reindenting files involves saving them and letting the linter do the work. And even then with cursor one never knows what the tab key is going to do. It was horrible. A bleak future stared at me.
+
+So imagine my delight when a twitter friend pointed me to [gptel](https://github.com/karthink/gptel) which puts all LLMs into my text editor. Check out the [demo here](https://www.youtube.com/watch?v=g1VMGhC5gRU) and do also check out the exemplary README for the project. There's also aider.el (which I haven't got to trying yet) and the very nice [chatgpt-shell](https://github.com/xenodium/chatgpt-shell) and I could go back to emacs. And seeing this new lease of life made me even more enthusiastic about going back to emacs. I redid my whole config using the modern package manager (straight) and now my config is actually legible. And by the way, when the LLM returns a code snippet, I can just C-x C-e and it will execute that snippet directly from the buffer it's in! Magic!
+
+I am writing a lot more these days and I was also dreaming of a writing app that would allow me to converse with an AI about the text I've written, and guess what - it's emacs + gptel. I set up my own writing-mode with 80 columns, a different font than coding and it looks and feels like a different app depending on what I am editing. I can't think of another editor that has this power.
+
+If you're young I would highly recommend switching to emacs. The ethos of the community is so incredibly nerdy, it will do you good to be exposed to it. The whole philosophy behind emacs is so powerful that someone famously said - "there are three ways to build software - the unix way, the emacs way and the wrong way". For one, "code is not text to be inserted and deleted but a tree to be manipulated" [Emacs Rocks! Episode 14: Paredit](https://www.youtube.com/watch?v=D6h5dFyyUX0&list=PLVfFIUHWy-aNaF08m34sO81dsVr4L7uI-&index=11). Emacs is so powerful that even other language modes can understand the tree (not just for lisp) and you can use the same emacs keys and concepts to manipulate the tree, which is an essential mindset while programming.
+
+When you see the power of emacs lisp that allows extensive composition of the various tools in emacs -- so they can be combined into powerful workflows --  you will be in nerd heaven. Exposure to this vibe I feel is essential to developing programming aesthetics. This is my real beef with VSCode and a lot of the js ecosystem. The aesthetics are all wrong. The complexity is in all the wrong places.
+
+Sometime soon, I will be hosting some emacs nerds on my discord to show off their setups and the power they've accumulated over the years.
+
+And for all the vim nerds, I love vim as well. It hurts my brain to use it but I appreciate that it has a deep philosophy and is also extremely powerful. For everyone else, give emacs a try. There is a learning curve but if you want to try it out, hit me up on [Twitter DM](https://x.com/_svs_) and I'll add you to the discord where some wizened gurus will introduce you to the wonder that is Emacs.

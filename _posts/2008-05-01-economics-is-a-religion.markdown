@@ -1,0 +1,27 @@
+---
+layout: post
+title: Economics is a Religion
+date: '2008-05-01 07:17:00'
+---
+
+<div dir="ltr" style="text-align: left;" trbidi="on">
+I&rsquo;ll say it again - economics is a religion. It is not a science, it is not art, it is not a social science. It is, essentially, a body of knowledge designed to provide ideological backing for the rule of a certain class of people thereby allowing them to control the actions of vast multitudes of people. It is a religion.
+<br/><br/>
+Both religion and economics started as ways of explaining the world. While religion seeks to &ldquo;explain&rdquo; the mysteries and wonders of life, economics sets the more modest goal of explaining commodity exchanges and monetary systems. While religion&rsquo;s failures are spectacular and their mythology and dogma are on a grand scale, economics is more like a religion for accountants with the centre of its universe being not God but homo economicus - rational, utility-maximising man.
+Economics is nothing more than dressed up common sense like some of the more mundane religious rituals. Take for example the great curves of economics -the demand and supply curves. As price decreases demand increases and vice versa. Oh sweet revealation! Or the backward bending supply curve of labout - as wages increase, beyond a point, people prefer leisure to work - the shiftless bastards!
+<br/><br/>
+However, while economics is admittedly a very banal form of religion, it is actually the most dangerous religion alive. For one, no one considers it to be one. The mathematical symbols and complex  equations that abound in its liturgies give it a thin veneer of respactability, something scientific and appropriate for the 21st century. Entire governments and whole populations buy the economists mumbo-jumbo wholesale. Economics is the cocaine of the masses.
+<br/><br/>
+Virulent schools of economic thought like the Chicago school have very consequences in real life. Latin america is only just recovering from being their laboratory for thirty years. Economics, like religion, does not follow any of the basics of a science - falsifiability, repeatability, etc. While it is dubbed a &ldquo;social science&rdquo;, disciplines like econometrics are gaining credibility as real sciences, which makes them all the more dangerous.
+<br/><br/>
+The stupid reductionist view of man can never bring us a true picture of reality, but it can bring plenty of power to the owners of yet another convenient fiction - capital. These are the people that benefit from economics. It provides the ideological justification for their excesses. Just like the priests and clergy of the great religions had a direct route to God, bankers and industrialists have direct access to the God of the material world - Capital. It should come as no surprise to regular readers of the blog that we here consider Capital to be as fictitious an entity as God and this asymmetric access is basically nothing but a power imbalance perpetuated by the elite classes.
+<br/><br/>
+Just like religion provided the ideological justification for the persecution of heretics and non-believers, economics provides one for the exploiters of human beings. Efficiency is paramount they say, so sorry for beating you with a stick but the economists say its for your own good. I don&rsquo;t like it any more than you do. What? All the money I&rsquo;m making? But if I don&rsquo;t get that then what would be my incentive for beating you? You get the picture.
+<br/><br/>
+You might argue that things like God and the Afterlife have no physical manifestation whereas a market for example, exists in reality. This does not invalidate the argument. Mysticism has nothing to do with phenomena, rather it is the manner in which phenomena are explained. The market is not mystical, just like comets and volcanoes are not mystical. Raising the market to the highest arbiter of ethics is mystical, just as as comets were associated with misfortune.
+<br/><br/>
+One of the definitions of economics is the study of methods to distribute the produce of society amongst itself. However, there are certain problems with thast definition. Just as there can be no religion without God, there can be no economics without Money and private property.  These are the unspoken assumptions of economics. This is why economics is not really a study of how best to distribute the produce of society because one can imagine that production can be distributed without money or private property. Therefore, economics is necessarily a capitalist discipline. Since economics serves to further the interest only of a particular class, it is  a religion.
+<br/><br/>
+The ultimate aim of economics is power. To reduce the human beings in factories to mere statistics, to measure wars in terms of GDP growth and to essentially further tilt the balance of power towards the elite. When an American engineer loses his job to outsourcing, economists shout about the free market making things better for everyone. When food is burnt in gas tanks as ethanol economists trumpet the &ldquo;solutions&rdquo; discovered by the marketplace. When acres of farmland are turned into concrete and acres of woodland turned into houses that will rot to the ground in a few years, economists praise the &ldquo;rise in asset prices.&rdquo; Just like religion, economics takes no heed of the real world, shows little compassion and requires making assumptions that a child would laugh at.
+<br/><br/>
+Economics is a religion.</div>

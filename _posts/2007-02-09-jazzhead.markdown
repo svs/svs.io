@@ -1,0 +1,30 @@
+---
+layout: post
+title: JazzHead
+date: '2007-02-09 06:31:00'
+---
+
+<p>This is a post announcing the release of JazzHead - A Music Screensaver for iTunes. It comes with the following features:
+</p><ul><li>displays album cover and song details
+</li><li>downloads random artist images from the internet and presents them as a slideshow</li><li>displays artist-related news
+</li><li>provides one-click access to the artist and album&rsquo;s allmusic.com page
+</li></ul>Here are some screenshots:
+
+<a href="http://patang.org/images/sc1.JPG" width="400px" target="_blank"><img src="http://patang.org/images/sc1.JPG" width="400px"/></a><br/>
+
+In shuffle mode, next five album covers are shown on the left, news below and internet images on the right
+
+
+
+<a href="http://patang.org/images/sc2.JPG" width="400px" target="_blank"><img src="http://patang.org/images/sc2.JPG" width="400px"/></a><br/>
+
+
+Showing artist page at allmusic.com
+
+
+<a href="http://patang.org/images/sc3.JPG" width="400px" target="_blank"><img src="http://patang.org/images/sc3.JPG" width="400px"/></a>
+
+Showing album page at allmusic.com
+<br/><br/><a href="http://patang.org/projects/jazzhead/jH.zip" target="_blank">Download JazzHead</a>
+<br/>
+System Requirements: Works only with iTunes and requires <a href="http://www.microsoft.com/downloads/details.aspx?familyid=0856eacb-4362-4b0d-8edd-aab15c5e04f5&amp;displaylang=en" target="_blank">Microsoft .Net Framework 2.0</a>

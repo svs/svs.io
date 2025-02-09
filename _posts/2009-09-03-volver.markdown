@@ -1,0 +1,22 @@
+---
+layout: post
+title: Volver
+date: '2009-09-03 18:18:00'
+---
+
+<div dir="ltr" style="text-align: left;" trbidi="on">
+The return of the blogger.<br/><br/>
+ Since the last time I posted - new (and better) job (pays poorly though), new (and better) house, new (and much better) programming language -  prospects still bleak.
+
+So I&rsquo;m now a resident of Ruby land. If you are a programmer and have not yet met Ruby, do head over to <a href="http://ruby-lang.org/" target="_blank"> http://ruby-lang.org</a>, or use your package manager to install it.<br/><br/>
+It all started with meeting a crazy Dutch programmer who was travelling the world and needed some work so he could party a bit harder en route to Vietnam. I was deeply into Python at the time, and hesitant to fix a situation that was not so bad, but seeing as Cies was way smarter than me, I decided to go along with his insistent advice - merb merb merb&hellip;.
+
+I haven&rsquo;t touched python since. __str__?!?! eugh.<br/><br/>
+ I&rsquo;m not a formally trained programmer, so the finer nuances of languages escape me. Immutable objects, etc. etc&hellip;. I&rsquo;m sure there&rsquo;s a lot I am missing but hey, a lot of guys way smarter than me looove ruby, and somehow that&rsquo;s good enough for me.
+
+I am svs, and I am a ruby addict.<br/><br/>
+ In other news, one is back on Arch Linux. Having set up a studio at my friend and co-conspirator Sonu&rsquo;s house, I of course decide to check out the state of the art on Linux. I set out to see if I could edit MIDI files and compose music while in the office on my laptop (i.e. shitty sound card). Seven days and no luck yet. If I plug in the M-Audio, everything works fine, but without it, alas&hellip;The explorations have taken me through Ubuntu Studio (two version, both sucked) and finally back to Arch Linux, which used to run Rosegarden flawlessly on this same  computer, but still no luck. Ah well, something to do tomorrow.
+
+This is my third installation of Arch Linux (I keep coming back, I can&rsquo;t help it) and I wanted to write a small note, but I think an export of my browsing history over the last few hours will suffice I think. 
+<br/><br/>
+That&rsquo;s all the news from now that I can share, so until next time.</div>
