@@ -7,3 +7,4 @@ gem "kramdown-parser-gfm"
 gemspec
 gem "jekyll"
 gem "webrick"
+gem "jekyll_ghost_importer"

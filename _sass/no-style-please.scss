@@ -44,9 +44,20 @@
     background: black;
     color: white;
 
+    a {
+        color: lightblue;
+    }
     a:visited {
         color: lightblue;
-
+    }
+    a.no-underline {
+        text-decoration: none;
+    }
+    a.no-underline:hover {
+        text-decoration: underline;
+    }
+    a.title {
+        color: white;
     }
 }
 
@@ -147,3 +158,15 @@ hr {
   background: url(https://nowherethis.svs.io/assets/images/divider.svg) no-repeat top center;
   margin: 2em auto; }
 
+
+a.title {
+        color: black;
+        text-decoration: none;
+}
+
+a.no-underline {
+        text-decoration: none;
+}
+a.no-underline:hover {
+        text-decoration: underline;
+}
