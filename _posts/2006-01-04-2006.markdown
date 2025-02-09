@@ -4,4 +4,4 @@ title: 2006!
 date: '2006-01-04 15:24:00'
 ---
 
-<p>Great news - Project Carpool is now on Sourceforge. Details <a href="http://projectcarpool.blogspot.com/2006/01/project-carpool-on-sourceforge.html" target="_blank">here</a></p>
+Great news - Project Carpool is now on Sourceforge. Details <a href="http://projectcarpool.blogspot.com/2006/01/project-carpool-on-sourceforge.html" target="_blank">here</a>

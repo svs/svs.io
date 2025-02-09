@@ -4,8 +4,8 @@ title: JazzHead
 date: '2007-02-09 06:31:00'
 ---
 
-<p>This is a post announcing the release of JazzHead - A Music Screensaver for iTunes. It comes with the following features:
-</p><ul><li>displays album cover and song details
+This is a post announcing the release of JazzHead - A Music Screensaver for iTunes. It comes with the following features:
+<ul><li>displays album cover and song details
 </li><li>downloads random artist images from the internet and presents them as a slideshow</li><li>displays artist-related news
 </li><li>provides one-click access to the artist and album&rsquo;s allmusic.com page
 </li></ul>Here are some screenshots:

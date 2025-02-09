@@ -4,15 +4,15 @@ title: The Passport Office
 date: '2005-02-11 18:34:00'
 ---
 
-<p>One of the wonderful things about the internet is the availibility of all kinds of nuggets of priceless information. Here&rsquo;s one that might save you some time:</p>
+One of the wonderful things about the internet is the availibility of all kinds of nuggets of priceless information. Here&rsquo;s one that might save you some time:
 
-<p><b>How to renew a passport (in Pune)</b><br/>
-N.B: This is only for renewing a passport. For fresh passport, ECNR, etc. this is mostly irrelevant. If you have been through any of these processes, mail me your experience.</p>
+<b>How to renew a passport (in Pune)</b><br/>
+N.B: This is only for renewing a passport. For fresh passport, ECNR, etc. this is mostly irrelevant. If you have been through any of these processes, mail me your experience.
 
-<p><br/>
-First of all, if you are feeling anxious or terrified about visiting the passport office, let me assure you that atleast the one I went to was very efficient, clean and remarkably free of unpleasantness. Your mileage may vary. Going to an agent is fully unnecessary if you follow the simple steps below:</p>
+<br/>
+First of all, if you are feeling anxious or terrified about visiting the passport office, let me assure you that atleast the one I went to was very efficient, clean and remarkably free of unpleasantness. Your mileage may vary. Going to an agent is fully unnecessary if you follow the simple steps below:
 
-<p>1) There is a passport office (opposite Symbiosis College, Ganeshkhind Road). Take with you<br/>
+1) There is a passport office (opposite Symbiosis College, Ganeshkhind Road). Take with you<br/>
 a) your passport (duh!)<br/>
 b) proof of address (ration card or bank passbook over one year old ONLY)<br/>
 2) Get a form from the window marked &ldquo;Enquiries&rdquo;. Costs Rs.10. Takes about 10 minutes.<br/>
@@ -24,6 +24,6 @@ b) proof of address (ration card or bank passbook over one year old ONLY)<br/>
 7) Get the token. Now you can have a chai. The restaurant just outside is quite a pleasant place to sit and read a book. I read <a href="http://www.fabmall.com/Stores/misc/frmMainFrame.asp?Files=FTS&amp;catalogId=Books&amp;AttribName=Title&amp;KeyWord=yuganta" target="_blank">Yuganta</a> by Irawati Karve.<br/>
 8) You need to finish your chai before your token number comes, so some judgement is required. Failure to do so will result in you having to persuade someone to let you go before them. Not advisable.<br/>
 9) Submit the forms. Hopefully all should go well and you will suffer only the withering glances of a civil servant who has been robbed of an opportunity to chastise you [my revenge will then be complete!]<br/>
-10) Wait around till the cashier flashes your token number. The renewal costs Rs. 1000.</p>
+10) Wait around till the cashier flashes your token number. The renewal costs Rs. 1000.
 
-<p>Hope this helps.</p>
+Hope this helps.

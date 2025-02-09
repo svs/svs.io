@@ -4,7 +4,7 @@ title: Food riots and Energy as Money
 date: '2008-05-05 19:13:00'
 ---
 
-It was jusgt a few days ago that I told someone - sometime before 2009 is over we will see extreme poverty being brought about by nothing more than a collapse of the world&rsquo;s monetary systems. Seems like it is coming to pass already.<p>
+It was jusgt a few days ago that I told someone - sometime before 2009 is over we will see extreme poverty being brought about by nothing more than a collapse of the world&rsquo;s monetary systems. Seems like it is coming to pass already.
 
 GWB&rsquo;s recent comments regarding the alarming rise in food prices has sparked off quite a controversy in the papers here in India, as well as I suppose in China. Of course, Jairam Ramesh was right in retorting that this is just another example of his ignorance, which indeed it is. Had there been massive crop failures or some other event, it would even have made sense but in the absence of all these issues, simple rising of demand for meat, etc from India cannot explain a 200% increase in wheat prices and 100% increase in rice prices in such a short time. The massive diversion of cropland away from food to biofuels does play some part in the tragedy that is unfolding. Those of you who have faith in the free market and its ability to fix our looming energy crisis might pay attention to this, a good example of the so called free market completely fucking things up for everybody.
 
@@ -12,7 +12,7 @@ GWB&rsquo;s recent comments regarding the alarming rise in food prices has spark
 Wheat prices
 
 <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.patang.org/blog/uploaded_images/RIM-759922.GIF" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.patang.org/blog/uploaded_images/RIM-759914.GIF" alt="" border="0"/></a>
-Rice prices</p><p>
+Rice prices
 
 What can, and does explain the alarming rise in prices is US Dollar inflation and rigidities in the real world that cannot keep pace with the changing value of money.
 <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.patang.org/blog/uploaded_images/COM-797753.GIF" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.patang.org/blog/uploaded_images/COM-797697.GIF" alt="" border="0"/></a>
@@ -20,18 +20,18 @@ Oil prices
 
 <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://www.patang.org/blog/uploaded_images/usd-797821.gif" target="_blank"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="http://www.patang.org/blog/uploaded_images/usd-797818.gif" alt="" border="0"/></a>
 US Dollar
-</p><p>
+
 Now, some trader on Wall Street bidding on rice contracts, priced in USD, has changed the world for all the rice buyers whose national governments and central banks have a particular policy towards the US dollar. Regime&rsquo;s change painfully. Those who have built their lives on a particular regime will fight tooth and nail to preserve it, but like every other fiat currency, the fiat currencies of today and especially the most powerful US Dollar (or should we call it by its real name - the Federal Reserve Dollar) are beginning their inexorable decline to zero value and are causing untold misery along the way. It seems there is a limited amount of money you can push into the economy through subprime loans and HELOC extractions before people start wondering what it is that those dollars actually do.
-</p><p>
+
 So now we have a situation where the collapse of the worlds monetary systems is once again causing poverty where none existed. Even hallowed institutions like the World Bank are saying that all of Capitalism painstaking efforts at pulling millions out of poverty have suffered a huge setback with millions being pushed back into poverty because they were just too far away from the action - the action being the rapid and continuous devaluation of the world&rsquo;s reserve currency. Fools.
-</p><p>
+
 Sooner or later one must ask the question - what is money? I think we can answer this by describing the functions that money performs i.e a medium of exchange and a store of value. However, let us take a closer look at these functions and see whether our hallowed dollars and rupees do actually perform this function. Is the dollar a medium of exchange? Undoubtedly. You can buy bread, eggs, apartments for dollars. You accept dollars as payment because you are sure that somewhere down the road, someone else will accept dollars to provide you the things you need. A dollar, and all money, represents a claim on assets, on real things. From whence does this claim arise? Simply put - from propoganda and from the corecive power of the State. Can you think of another reason why you continue to accept dollars and rupees in exchange from your labour when the value of your assets changes so rapidly from day to day?
-</p><p>
-Is money a store of value? Let me ask you - is a lakh of rupees a lot of money? Can you remember a time when it was? How long ago was it? Your savings - what will they be worth when you retire? Is this fair? Here&rsquo;s another question to test your familiarity with that thing we call reality - is gold a currency because it is valuable, or is gold valuable because it is a currency? Leave your answers in the comments.<usd vs="" gold=""><p>
+
+Is money a store of value? Let me ask you - is a lakh of rupees a lot of money? Can you remember a time when it was? How long ago was it? Your savings - what will they be worth when you retire? Is this fair? Here&rsquo;s another question to test your familiarity with that thing we call reality - is gold a currency because it is valuable, or is gold valuable because it is a currency? Leave your answers in the comments.<usd vs="" gold="">
 Most of you who read this will scoff. Don&rsquo;t worry - that is normal. For someone to suggest that Weimar hyperinflation could arise again is for someone to suggest that our leaders have learnt nothing from history. That would be true only if you give them the benefit of the doubt, which I refuse to. Our leaders have no interest in our wellbeing. War is for external enemies. Economics if for the internal ones. Much more bang for one&rsquo;s buck, especially considering that the bucks are all fake anyways.
-</p><p>
+
 There is one thing though, that can serve as the ultimate currency, which has all the benefits of a currency but none of the drawbacks. For example, this unit of currency would be unforgeable, uninflatable, totally fungible, would preserve it&rsquo;s value (it might even get more valuable with time), would be environmentally friendly, would take power away from the great banking cartels, would be freely exchangeable and tradeable and would be great for backing not only local but also national and international transactions. Ladies and gentle, may I present - the humble KiloWatt.
-</p><p>
+
 If there is a dynamic entrepreneur out there with the ability to reliable deliver kilowatts, I suggest you float a currency.
-</p><p>
-I am sure there are any number of objections to this proposal, and like I like to say - if there is a truth, let it out in the comments. While I do believe that my many hours and weeks and years involved with banking have meant that I have spent a lot of time thinking about these things, I still maintain that truth is truth and that it will emerge only from discussion and not from me saying any xyz thing on my blog. Have at it in the comments and let us see whether we can find a better alternative to our volatile and unfair systems of trade today. </p></usd></p>
+
+I am sure there are any number of objections to this proposal, and like I like to say - if there is a truth, let it out in the comments. While I do believe that my many hours and weeks and years involved with banking have meant that I have spent a lot of time thinking about these things, I still maintain that truth is truth and that it will emerge only from discussion and not from me saying any xyz thing on my blog. Have at it in the comments and let us see whether we can find a better alternative to our volatile and unfair systems of trade today. </usd>

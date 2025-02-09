@@ -13,7 +13,7 @@ Possibly the most understated movie on taking the chances that one is likely to 
 All the actors were so good and it&rsquo;s nice to know that Frances McDormand can even be hot, when required. Billy rocks! Even the minor characters were stunning. The photography was scintillating black and white, pure poetry. The dialogue was as racy as a great crime thriller, the best of the noir tradition is on display here but with a real twist. and really, where else can someone see a frame like this one?
 
 
-<p align="center"><a href="http://www.patang.org/blog/uploaded_images/mwwt-791102.gif" target="_blank"><img style="MARGIN: 0px 10px 10px 0px; CURSOR: hand" alt="" src="http://www.patang.org/blog/uploaded_images/mwwt-788012.gif" border="0"/></a></p>
+<p align="center"><a href="http://www.patang.org/blog/uploaded_images/mwwt-791102.gif" target="_blank"><img style="MARGIN: 0px 10px 10px 0px; CURSOR: hand" alt="" src="http://www.patang.org/blog/uploaded_images/mwwt-788012.gif" border="0"/></a>
 
 And let us not even get into what might have been if Creighton Tolliver had done what he needed to. Stunning!
 

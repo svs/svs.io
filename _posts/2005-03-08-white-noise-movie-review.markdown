@@ -4,6 +4,6 @@ title: White Noise (Movie Review)
 date: '2005-03-08 12:41:00'
 ---
 
-<p>This movie can be proud of itself as it has just displaced Joggers Park as the worst movie ever made. </p>
+This movie can be proud of itself as it has just displaced Joggers Park as the worst movie ever made. 
 
-<p>Tip to Vinta Nanda - when your characters discuss mediocrity, make it sound like an aspiration rather than a disparaging remark.</p>
+Tip to Vinta Nanda - when your characters discuss mediocrity, make it sound like an aspiration rather than a disparaging remark.

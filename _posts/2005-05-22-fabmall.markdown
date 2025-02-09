@@ -4,7 +4,7 @@ title: FabMall
 date: '2005-05-22 10:14:00'
 ---
 
-<p>So since I&rsquo;ve often praised <a href="http://fabmall.com" target="_blank">FabMall</a> in my previous posts, it&rsquo;s time for more honest appraisal of the online store. In one word: &ldquo;What the&hellip;&rdquo;<br/>
+So since I&rsquo;ve often praised <a href="http://fabmall.com" target="_blank">FabMall</a> in my previous posts, it&rsquo;s time for more honest appraisal of the online store. In one word: &ldquo;What the&hellip;&rdquo;<br/>
  Fabmall used to be so cool! They have lots and lots of books, the site worked well and their delivery was blazing fast. Not the prettiest site in the world, but it was basic and robust and there was no fuss involved.<br/>
  Over the past few weeks though, things have gone totally down the drain. Logins fail, the shopping cart continuosly forgets what was put into it, the connection with the bank fails. It has become impossible to buy a book on fabmall. And if you manage to get the shopping cart to work, then you find that the site&rsquo;s security certificate is invalid. I suppose some people might disclose their credit card numbers on such a site, but I&rsquo;m not one of them. And of course, despite repeatedly emailing &ldquo;Customer Support&rdquo;, there has been no reply. So, if you&rsquo;re having problems with FabMall, you probably should <a href="mailto:customerservice@fabmall.com" target="_blank">let them know.</a><br/>
- In the meantime, I&rsquo;m using <a href="http://www.firstandsecond.com" target="_blank">First and Second</a>, which seems to work much better.</p>
+ In the meantime, I&rsquo;m using <a href="http://www.firstandsecond.com" target="_blank">First and Second</a>, which seems to work much better.
