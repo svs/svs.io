@@ -6,7 +6,7 @@ date: 2025-04-27 17:18 +0530
 
 Just finished watching Bullet Train Explosion and wanted to share that this was a movie that I enjoyed from the first frame to the last because it really spoke to the engineer in me. The opening shot of the movie is in a Shinkansen rolling stock yard and the first person you see in an engineer in a hard hat. This is the crew of the train that will be taking you on an exhilrating journey through Japanese society and the engineer ethos. 
 
-There are a few people in the world who get absolutely excited in the presence of massive engineering. But as younger svs learned —  while attempting to seduce a woman by explaining to her the engineering behind the Eric Raude, Norways massive offshore oil rig — that not everyone is like this. If you're not like this then my apologies, but do still watch this movie as it has something for everyone.
+There are a few people in the world who get absolutely excited in the presence of massive engineering. But I have learned that not everyone is like this. If you're not like this then my apologies, but do still watch this movie as it has something for everyone.
 
 Ostensibly, the movie is Speed on a Bullet Train as the train will explode if its speed drops below 100 kmph, but that's where the similarity ends. While Speed is an American individualist movie, this one is about a collectivist spirit — of the sort that can only arise in the presence of something larger than oneself, in this case the awe-inspiring Shinkansen train network of Japan. It is quite clear from the start that everyone involved in the work of running their trains take their jobs very seriously.
 
