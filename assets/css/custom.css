@@ -1,0 +1,102 @@
+.site-header {
+  margin-bottom: 1em;
+  padding: 0.5em 0;
+  border-bottom: 1px solid #ccc;
+  background: #fafafa;
+}
+
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+.nav-brand .brand-link {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1em;
+}
+
+.nav-links a {
+  text-decoration: none;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+/* Ensure the main content has proper spacing */
+.page-content .w {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+/* Dark mode adjustments */
+body[a="dark"] .site-header {
+  border-bottom-color: #666 !important;
+  background: #0f0d14 !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  body[a="auto"] .site-header {
+    border-bottom-color: #666 !important;
+    background: #0f0d14 !important;
+  }
+}
+
+body[a="dark"] .nav-links a {
+  color: #ccc;
+}
+
+body[a="dark"] .nav-brand .brand-link {
+  color: #fff;
+}
+
+/* Footer styles */
+.site-footer {
+  margin-top: 4em;
+  padding: 2em 0;
+  border-top: 1px solid #ccc;
+  background: #fafafa;
+  text-align: center;
+  font-size: 0.9em;
+  color: #666;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+body[a="dark"] .site-footer {
+  border-top-color: #666 !important;
+  background: #0f0d14 !important;
+  color: #999;
+}
+
+@media (prefers-color-scheme: dark) {
+  body[a="auto"] .site-footer {
+    border-top-color: #666 !important;
+    background: #0f0d14 !important;
+    color: #999;
+  }
+}
+
+/* Dark mode HR */
+body[a="dark"] hr {
+  filter: invert(1);
+}
+
+@media (prefers-color-scheme: dark) {
+  body[a="auto"] hr {
+    filter: invert(1);
+  }
+}

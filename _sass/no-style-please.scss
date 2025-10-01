@@ -41,14 +41,14 @@
 
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
-    background: black;
-    color: white;
+    background: #1a1625;
+    color: #e8e3f0;
 
     a {
-        color: lightblue;
+        color: #58a6ff;
     }
     a:visited {
-        color: lightblue;
+        color: #bc8cff;
     }
     a.no-underline {
         text-decoration: none;
@@ -57,7 +57,42 @@
         text-decoration: underline;
     }
     a.title {
-        color: white;
+        color: #f0f6fc;
+    }
+
+    // Fix code blocks for dark mode
+    code {
+        color: #e6edf3;
+        background: #161b22;
+        border-radius: 3px;
+        padding: 0.2em 0.4em;
+    }
+
+    div.highlighter-rouge code {
+        background: #0d1117;
+        border: 1px solid #30363d;
+        color: #e6edf3;
+    }
+
+    // Fix table borders for dark mode
+    table, th, td {
+        border-color: #30363d;
+    }
+
+    // Fix blockquote borders for dark mode
+    blockquote {
+        border-color: #30363d;
+        background: #161b22;
+    }
+
+    // Fix target highlighting for dark mode
+    *:target {
+        background: #1f2328;
+    }
+
+    // Improve headings contrast
+    h1, h2, h3, h4, h5, h6 {
+        color: #f0f6fc;
     }
 }
 
@@ -78,14 +113,14 @@ html { height: 100%; }
 
 body {
   color: black;
-  font-family: monospace;
-  font-size: 16px;
-  font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-family: "et-book", -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
   font-size: 20px;
-  line-height: 1.4;
+  line-height: 1.6;
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .post-meta { text-align: right; }

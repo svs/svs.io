@@ -2,13 +2,18 @@
 <html lang="{{ page.lang | default: "en" }}">
   {%- include head.html -%}
   <body a="{{ site.theme_config.appearance | default: "auto" }}">
+    {%- include header.html -%}
     <main class="page-content" aria-label="Content">
       <div class="w">
-        <h1><a href="/" class="title">{{ site.title }}</a></h1>
-
         {{ content }}
       </div>
     </main>
+
+    <footer class="site-footer">
+      <div class="w">
+        <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author }}. All rights reserved.</p>
+      </div>
+    </footer>
 
     {%-if site.goat_counter and jekyll.environment == "production"-%}
       {%-include goat_counter.html-%}

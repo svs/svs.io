@@ -1,0 +1,16 @@
+---
+layout: default
+title: Drafts
+---
+
+<h1>Drafts</h1>
+
+<ul class="post-list">
+  {% assign draft_posts = site.posts | where: "draft", true %}
+  {% for draft in draft_posts %}
+    <li>
+      {{ draft.date | date: site.theme_config.date_format}} -
+      <a href="{{ draft.url }}" class="no-underline">{{ draft.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

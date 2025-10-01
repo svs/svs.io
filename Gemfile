@@ -10,3 +10,4 @@ gem "webrick"
 gem "jekyll_ghost_importer"
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'jekyll-livereload', group: [:jekyll_plugins]
